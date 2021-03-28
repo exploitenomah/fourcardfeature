@@ -1,0 +1,105 @@
+body{
+    box-sizing: border-box;
+    background: hsl(0, 0%, 98%);
+    font-size: 15px;
+    color:hsl(229, 6%, 66%) ;
+    
+}
+.bigbox{ 
+    margin-top: 80px;
+}
+
+
+.firsthead{
+    display: flex;
+    font-weight: 200;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 0;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+
+}
+.Secondhead{
+    color: hsl(234, 12%, 34%);
+    display: flex;
+    font-weight: 600;
+    text-align: center;
+    justify-content:center;
+    margin-top: 5px;
+    
+
+}
+.mainp{
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 15px;
+    margin: 0px 20px 80px;
+  
+    
+}
+
+.majordiv{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.div1{
+    box-sizing: border-box;
+    margin: 0px 20px;
+    padding:30px;
+    border-style: solid solid solid hidden;
+    border-color:hsl(212, 86%, 64%) hsl(229, 6%, 66%) hsl(229, 6%, 66%);
+    border-width: 5px 0px 0px;
+    box-shadow: 5px 10px 20px  hsl(229, 6%, 66%);
+    border-radius: 5px;
+    
+    
+
+}
+.div2{
+    background:hsl(0, 0%, 98%) ;
+    box-sizing: border-box;
+    margin:20px 20px;
+    padding:30px;
+    border-style: solid solid solid hidden;
+    border-color:hsl(0, 78%, 62%) hsl(229, 6%, 66%) hsl(229, 6%, 66%);
+    border-width: 5px 0px 0px;
+    box-shadow: 5px 10px 20px  hsl(229, 6%, 66%);
+
+}
+.div3{
+    box-sizing: border-box;
+    margin: 10px 20px;
+    padding:30px;
+    border-style: solid solid solid hidden;
+    border-color:hsl(34, 97%, 64%) hsl(229, 6%, 66%) hsl(229, 6%, 66%);
+    border-width: 5px 0px 0px;
+    box-shadow: 5px 10px 20px  hsl(229, 6%, 66%);
+    
+}
+.div4{
+    box-sizing: border-box;
+    margin: 10px 20px;
+    padding:32px;
+    border-style: solid solid solid hidden;
+    border-color:hsl(180, 62%, 55%) hsl(229, 6%, 66%) hsl(229, 6%, 66%);
+    border-width: 5px 0px 0px;
+    box-shadow: 5px 10px 20px  hsl(229, 6%, 66%);
+    
+}
+h3{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+}
+img{
+    
+   margin-top: 50px;
+   margin-left: 200px;
+   margin-bottom: 10px;
+}
